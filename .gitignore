@@ -1,0 +1,12 @@
+/classes/
+/classes-test/
+/junit-reports/
+/target/
+.classpath
+.project
+.settings/
+bin/
+
+# Ignore IntelliJ IDEA files
+.idea
+*.iml
